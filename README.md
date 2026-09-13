@@ -65,6 +65,7 @@ Governments, healthcare organizations, and researchers need clear and interactiv
 
 ## Dashboard Preview
 
+<img width="1321" height="745" alt="Screenshot 2026-09-13 210821" src="https://github.com/user-attachments/assets/353ffee4-8b6c-45c0-8d80-da7f2cb738cd" />
 
 
 ## Future Improvements
