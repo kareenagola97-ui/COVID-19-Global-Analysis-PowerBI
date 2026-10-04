@@ -1,9 +1,9 @@
 
-# COVID-19 Global Analysis Dashboard
+# COVID-19 Global Analysis Dashboard /Business Report 
 
 ## Project Overview
 
-This project is an interactive Power BI dashboard developed using COVID-19 data collected from a public API. It provides insights into global COVID-19 trends through interactive visualizations and key performance indicators (KPIs).
+This project is an interactive Power BI dashboard developed using COVID-19 data collected from a public API. It provides insights into global COVID-19 trends through interactive visualizations and key performance indicators (KPIs).This project based to tell the making the dashboard . Using the Power Query to tell clean the data and  clean the data before making the dashboard.
 
 ---
 
@@ -39,16 +39,14 @@ Governments, healthcare organizations, and researchers need clear and interactiv
 
 ---
 
-## Dashboard Features
+##  KPI Cards
 
-- Total Confirmed Cases
-- Total Death Cases
-- Total Recovered Cases
-- Active Cases
-- Country-wise Analysis
-- Trend Analysis
-- Interactive Filters
-- KPI Cards
+- Total Confirmed Cases : 705M
+- Total Death Cases : 7M
+- Total Recovered Cases: 561M
+- Active Cases: 137M
+- Country-wise Analysis : USA has more case
+
 
 ---
 
@@ -75,10 +73,5 @@ Governments, healthcare organizations, and researchers need clear and interactiv
 - Forecasting
 - Time Series Analysis
 
----
 
-## Author
 
-**Kareena Gola**
-
-Aspiring Data Analyst | Power BI | Python | SQL
